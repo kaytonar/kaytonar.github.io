@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(44, 44, 44);
+}
+
+#para1 {
+    text-align: left;
+    color: rgb(160, 174, 252);
+    font-size: 18pt;
+    padding: 5pt;
+}
+
+#head1 {
+    text-align: center;
+    color: rgb(253, 163, 141);
+    font-size: 20pt;
+    padding: 3pt;
+}
+
+#head2 {
+    text-align: center;
+    color: rgb(252, 90, 49);
+    font-size: 20pt;
+    padding: 3pt;
+}
+
+.main {
+    /* width: 80%; */
+    font-family: cursive;
+    word-wrap: break-word;
+}
+
+#list1 {
+    text-align: justify;
+    color: rgb(226, 218, 207);
+    font-size: 14pt;
+    line-height: 150%;
+}
+
+strong {
+    color: rgb(0, 162, 255);
+}
