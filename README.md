@@ -1,2 +1,0 @@
-# kaytonar.github.io
-wedsite
