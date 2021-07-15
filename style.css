@@ -13,14 +13,28 @@ body {
     text-align: center;
     color: rgb(253, 163, 141);
     font-size: 20pt;
-    padding: 3pt;
+    padding: 1pt;
 }
 
 #head2 {
     text-align: center;
     color: rgb(252, 90, 49);
     font-size: 20pt;
-    padding: 3pt;
+    padding: 1pt;
+}
+
+#head3 {
+    text-align: center;
+    color: rgb(221, 59, 18);
+    font-size: 20pt;
+    padding: 1pt;
+}
+
+#head4 {
+    text-align: center;
+    color: rgb(41, 99, 14);
+    font-size: 20pt;
+    padding: 1pt;
 }
 
 .main {
@@ -33,7 +47,7 @@ body {
     text-align: justify;
     color: rgb(226, 218, 207);
     font-size: 14pt;
-    line-height: 150%;
+    line-height: 125%;
 }
 
 strong {
