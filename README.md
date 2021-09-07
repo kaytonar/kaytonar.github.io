@@ -1,4 +1,4 @@
 # kaytonar.github.io
 
-* wedsite for work things
+* website for work things
 
