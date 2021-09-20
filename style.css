@@ -1,55 +1,55 @@
 body {
-  background-color: rgb(5, 5, 5);
+    background-color: rgb(5, 5, 5);
 }
 
 #para1 {
-  text-align: left;
-  color: rgb(160, 174, 252);
-  font-size: 18pt;
-  padding: 5pt;
+    text-align: left;
+    color: rgb(160, 174, 252);
+    font-size: 18pt;
+    padding: 5pt;
 }
 
 #head1 {
-  text-align: center;
-  color: rgb(253, 163, 141);
-  font-size: 20pt;
-  padding: 1pt;
+    text-align: center;
+    color: rgb(253, 163, 141);
+    font-size: 20pt;
+    padding: 1pt;
 }
 
 #head2 {
-  text-align: center;
-  color: #B7C10F;
-  font-size: 20pt;
-  padding: 1pt;
+    text-align: center;
+    color: #B7C10F;
+    font-size: 20pt;
+    padding: 1pt;
 }
 
 #head3 {
-  text-align: center;
-  color: #0F68EE;
-  font-size: 20pt;
-  padding: 1pt;
+    text-align: center;
+    color: #0F68EE;
+    font-size: 20pt;
+    padding: 1pt;
 }
 
 #head4 {
-  text-align: center;
-  color: rgb(41, 99, 14);
-  font-size: 20pt;
-  padding: 1pt;
+    text-align: center;
+    color: rgb(41, 99, 14);
+    font-size: 20pt;
+    padding: 1pt;
 }
 
 .main {
-  /* width: 80%; */
-  font-family: cursive;
-  word-wrap: break-word;
+    /* width: 80%; */
+    font-family: cursive;
+    word-wrap: break-word;
 }
 
 #list1 {
-  text-align: justify;
-  color: rgb(226, 218, 207);
-  font-size: 14pt;
-  line-height: 125%;
+    text-align: justify;
+    color: rgb(226, 218, 207);
+    font-size: 14pt;
+    line-height: 125%;
 }
 
 strong {
-  color: #F42D2D;
+    color: #F42D2D;
 }
